@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Tehtava2Lotto
+namespace Tehtävä2Lotto
 {
     /// <summary>
     /// Interaction logic for App.xaml
