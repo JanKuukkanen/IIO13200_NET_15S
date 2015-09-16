@@ -1,0 +1,42 @@
+D:\H3387\IIO13200\Tehtävä1\bin\Debug\Ikkunat.exe.config
+D:\H3387\IIO13200\Tehtävä1\bin\Debug\Ikkunat.exe
+D:\H3387\IIO13200\Tehtävä1\bin\Debug\Ikkunat.pdb
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.csprojResolveAssemblyReference.cache
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\MainWindow.g.cs
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\App.g.cs
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Ikkunat_MarkupCompile.cache
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Ikkunat_MarkupCompile.lref
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\MainWindow.baml
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Ikkunat.g.resources
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.Properties.Resources.resources
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.csproj.GenerateResource.Cache
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Ikkunat.exe
+D:\H3387\IIO13200\Tehtävä1\obj\Debug\Ikkunat.pdb
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\bin\Debug\Ikkunat.exe.config
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Ikkunat.exe
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Ikkunat.pdb
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\bin\Debug\Ikkunat.exe
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\bin\Debug\Ikkunat.pdb
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.csprojResolveAssemblyReference.cache
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\MainWindow.g.cs
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\App.g.cs
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Ikkunat_MarkupCompile.cache
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Ikkunat_MarkupCompile.lref
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\MainWindow.baml
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Ikkunat.g.resources
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.Properties.Resources.resources
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.csproj.GenerateResource.Cache
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\bin\Debug\Ikkunat.exe.config
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Ikkunat.exe
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Ikkunat.pdb
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\bin\Debug\Ikkunat.exe
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\bin\Debug\Ikkunat.pdb
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.csprojResolveAssemblyReference.cache
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\MainWindow.g.cs
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\App.g.cs
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Ikkunat_MarkupCompile.cache
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Ikkunat_MarkupCompile.lref
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\MainWindow.baml
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Ikkunat.g.resources
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.Properties.Resources.resources
+D:\Janne_datanomi\Ammattikorkea\H3387\NET-ohjelmointi\Viikko 36_versio4\IIO13200\Tehtävä1\obj\Debug\Tehtävä1.csproj.GenerateResource.Cache
