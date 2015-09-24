@@ -1,0 +1,19 @@
+﻿<Window x:Class="Teht4XML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Teht4XML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,2,0">
+        <StackPanel>
+            <Button x:Name="btnXml1" Content="XmlDataProvider demo" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="178" Click="btnXml1_Click"/>
+            <Button x:Name="btnXml2" Content="XmlDocument demo" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="178" Click="btnXml2_Click"/>
+            <Button x:Name="btnXml3" Content="XDocument demo" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="178"/>
+            <Button x:Name="btnDataSet" Content="DataSet" Click="btnDataSet_Click" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="178"/>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

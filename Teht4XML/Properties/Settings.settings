@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Teht4XML.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ViiniTiedostoXML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\H3387\Viinit.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
