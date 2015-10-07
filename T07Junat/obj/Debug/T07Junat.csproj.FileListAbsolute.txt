@@ -1,0 +1,17 @@
+D:\H3387\Viikko40\IIO13200\T07Junat\bin\Debug\T07Junat.exe.config
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\MainWindow.g.cs
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\App.g.cs
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat_MarkupCompile.cache
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat_MarkupCompile.lref
+D:\H3387\Viikko40\IIO13200\T07Junat\bin\Debug\T07Junat.exe
+D:\H3387\Viikko40\IIO13200\T07Junat\bin\Debug\T07Junat.pdb
+D:\H3387\Viikko40\IIO13200\T07Junat\bin\Debug\Newtonsoft.Json.dll
+D:\H3387\Viikko40\IIO13200\T07Junat\bin\Debug\Newtonsoft.Json.pdb
+D:\H3387\Viikko40\IIO13200\T07Junat\bin\Debug\Newtonsoft.Json.xml
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\MainWindow.baml
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat.g.resources
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat.Properties.Resources.resources
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat.csproj.GenerateResource.Cache
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat.exe
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat.pdb
+D:\H3387\Viikko40\IIO13200\T07Junat\obj\Debug\T07Junat.csprojResolveAssemblyReference.cache
