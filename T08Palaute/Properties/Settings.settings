@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="T08Palaute.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TestiPalaute" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\H3387\Testaus_ja_kehitys\T08Palaute\Palautteet.xml</Value>
+    </Setting>
+    <Setting Name="PalauteTiedostoXML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\ghost.labranet.jamk.fi\temp\Palautteet.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<palautteet>
+  <palaute>
+    <pvm>20131001</pvm>
+    <tekija>Juice Läskinen</tekija>
+    <opittu>paljon hyvää ja törkeän tärkeää</opittu>
+    <haluanoppia>tietoturvasta tsäbää</haluanoppia>
+    <hyvaa>demot</hyvaa>
+    <parannettavaa>enemmän omaa tekemistä</parannettavaa>
+    <muuta>GitHub ok </muuta>
+  </palaute>
+  <palaute>
+    <pvm>2013103</pvm>
+    <tekija>Esa Vesa</tekija>
+    <opittu>ASP.NET perusteet</opittu>
+    <haluanoppia>autentikointi ja hashaus</haluanoppia>
+    <hyvaa>hyvää</hyvaa>
+    <parannettavaa>parannettavaa</parannettavaa>
+    <muuta>blaah blaah</muuta>
+  </palaute>
+  <palaute>
+    <pvm>18.10.2015</pvm>
+    <tekija>Pasi</tekija>
+    <opittu>en mitään</opittu>
+    <haluanoppia>en mitään</haluanoppia>
+    <hyvaa>ei mikään</hyvaa>
+    <parannettavaa>ei mikään</parannettavaa>
+    <muuta>jee</muuta>
+  </palaute>
+  <palaute>
+    <pvm>8.10.2015 0:00:00</pvm>
+    <tekija>Juuso</tekija>
+    <opittu>en</opittu>
+    <haluanoppia>en</haluanoppia>
+    <hyvaa>ei mikää</hyvaa>
+    <parannettavaa>emt</parannettavaa>
+    <muuta>oon paska</muuta>
+  </palaute>
+  <palaute>
+    <pvm>14.10.2015</pvm>
+    <tekija>pasi</tekija>
+    <opittu>en mitään </opittu>
+    <haluanoppia>en yhtään mitään</haluanoppia>
+    <hyvaa>ei kertakaikkiaan mikään</hyvaa>
+    <parannettavaa>KAIKKI</parannettavaa>
+    <muuta>oon kakempi</muuta>
+  </palaute>
+  <palaute>
+    <pvm>2.10.2015</pvm>
+    <tekija>juuso</tekija>
+    <opittu>juuso</opittu>
+    <haluanoppia>juuso</haluanoppia>
+    <hyvaa>juuso</hyvaa>
+    <parannettavaa>juuso</parannettavaa>
+    <muuta>juuso</muuta>
+  </palaute>
+  <palaute>
+    <pvm>8.10.2015</pvm>
+    <tekija>hyvä juuso</tekija>
+    <opittu>ja pasi</opittu>
+    <haluanoppia>hienosti</haluanoppia>
+    <hyvaa>toimii</hyvaa>
+    <parannettavaa>teillä</parannettavaa>
+    <muuta>molemmilla!</muuta>
+  </palaute>
+  <palaute>
+    <pvm>ss</pvm>
+    <tekija>aa</tekija>
+    <opittu>dd</opittu>
+    <haluanoppia>ccv</haluanoppia>
+    <hyvaa>vv</hyvaa>
+    <parannettavaa>bb</parannettavaa>
+    <muuta>nn</muuta>
+  </palaute>
+  <palaute>
+    <pvm>hhh</pvm>
+    <tekija>dsadas</tekija>
+    <opittu>gggt</opittu>
+    <haluanoppia>ttt</haluanoppia>
+    <hyvaa>rrrr</hyvaa>
+    <parannettavaa>eeeee</parannettavaa>
+    <muuta>qqqq</muuta>
+  </palaute>
+</palautteet>
