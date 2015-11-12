@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<palautteet>
+  <palaute>
+    <pvm>20131001</pvm>
+    <tekija>Juice Läskinen</tekija>
+    <opittu>paljon hyvää ja törkeän tärkeää</opittu>
+    <haluanoppia>tietoturvasta tsäbää</haluanoppia>
+    <hyvaa>demot</hyvaa>
+    <parannettavaa>enemmän omaa tekemistä</parannettavaa>
+    <muuta>GitHub ok</muuta>
+  </palaute>
+  <palaute>
+    <pvm>2013103</pvm>
+    <tekija>Esa Vesa</tekija>
+    <opittu>ASP.NET perusteet</opittu>
+    <haluanoppia>autentikointi ja hashaus</haluanoppia>
+    <hyvaa>hyvää</hyvaa>
+    <parannettavaa>parannettavaa</parannettavaa>
+    <muuta>blaah blaah</muuta>
+  </palaute>
+  <palaute>
+    <pvm>12.11.2015</pvm>
+    <tekija>asd</tekija>
+    <opittu>dsa</opittu>
+    <haluanoppia>dsa</haluanoppia>
+    <hyvaa>dsa</hyvaa>
+    <parannettavaa>dsa</parannettavaa>
+    <muuta>dsa</muuta>
+  </palaute>
+  <palaute>
+    <pvm>12.11.2015</pvm>
+    <tekija>Janne</tekija>
+    <opittu>ASP.NET</opittu>
+    <haluanoppia>Asioita</haluanoppia>
+    <hyvaa>Jutut</hyvaa>
+    <parannettavaa>Sairaat</parannettavaa>
+    <muuta>Jännä meno</muuta>
+  </palaute>
+</palautteet>
